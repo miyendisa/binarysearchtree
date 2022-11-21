@@ -1,5 +1,5 @@
 # Searching (Arama) Algoritmaları
-Bu repo, Veri yapıları ve Algoritmalar eğitimi kapsamındaki projeler için oluşturulmuştur. Searching algoritmalarından olan Binary Seearch Tree örneğini içermektedir. İçerisinde bir adet binarysearchtree.md dosyası, bir adet ve bir adet README.md dosyası barındırıyor. Dosyaların içerik bilgisi aşağıdaki gibidir.
+Bu repo, Veri yapıları ve Algoritmalar eğitimi kapsamındaki projeler için oluşturulmuştur. Searching algoritmalarından olan Binary Seearch Tree örneğini içermektedir. İçerisinde bir adet binarysearchtree.md dosyası ve bir adet README.md dosyası barındırıyor. Dosyaların içerik bilgisi aşağıdaki gibidir.
 
 
 ### Binary Search Tree
