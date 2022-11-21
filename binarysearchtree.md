@@ -22,7 +22,7 @@ Verilen dizide root 7 olarak seçilsin. Veriyi sağ ve sola referans verecek şe
                                   /   \  
                                  1     7         1. Düğüm Satırı                 
                                       /
-                                    5          2. Düğüm Satırı 
+                                    5            2. Düğüm Satırı 
 * Dizinin dördüncü elemanı olan 8, 4'ten büyüktür. 8, 7'den de büyük olduğu için 2. düğüm satırında 7'nin sağ tarafında bulunacaktır.
   
                                     4            Root Satırı  
